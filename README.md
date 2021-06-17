@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cj4m!
+- I'm into osu!, keyboards, and other computer peripherals.
+- Pabst Blue Ribbon is the best beer.
+- I’m currently learning Angular and TypeScript, and have knowledge in Python. 
