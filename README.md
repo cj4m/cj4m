@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @cj4m!
-- I'm into osu!, keyboards, and other computer peripherals.
-- Mainly Python projects, but I plan to learn JS when I have some ideas.
+i made some things that were silly
